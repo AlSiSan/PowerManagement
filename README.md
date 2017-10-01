@@ -14,3 +14,6 @@ Click with the right button of the mouse the system tray icon and select:
  - Open to open the main window.
  - Quit to close the application.
  - The energy plan you want to use.
+
+If you want it to start with Windows:
+ - Copy the executable or a shortcut to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
