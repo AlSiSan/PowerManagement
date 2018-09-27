@@ -1,0 +1,15 @@
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\bin\Release\PowerManagement.exe.config
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\bin\Release\PowerManagement.exe.manifest
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\bin\Release\PowerManagement.application
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\bin\Release\PowerManagement.exe
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\bin\Release\PowerManagement.pdb
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.csprojAssemblyReference.cache
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.MainWindow.resources
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.Properties.Resources.resources
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.csproj.GenerateResource.cache
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.csproj.CoreCompileInputs.cache
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.TrustInfo.xml
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.exe.manifest
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.application
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.exe
+C:\Users\elssbbboy\Documents\Visual Studio 2017\PowerManagement\PowerManagement\obj\Release\PowerManagement.pdb
